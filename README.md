@@ -2,7 +2,7 @@ PET MANAGEMENT SYSTEM
 This is a pet record management system that stores and manages information about pets.
 
 MAIN FEATURES:
-• Add new pets with their ID, name, type (like dog/cat/bird), and age 
+• Add new pets with their ID, name, type (like dog/cat/bird), and age. 
 • View all pets stored in the system • Search for specific pets by their name 
 • Update existing pet information (change type or age) 
 • Delete pets from the system 
